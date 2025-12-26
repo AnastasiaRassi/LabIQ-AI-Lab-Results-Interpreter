@@ -2,3 +2,4 @@ logs
 /__pycache_/
 .env
 .venv
+exploration.ipynb
