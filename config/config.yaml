@@ -1,3 +1,11 @@
+Settings:
+  Testing: True
+
 paths:
-  images: "lab_tests"
-  
+  images_test_dir: "images/testing"
+
+data_ingestion:
+  collection_metadata: "image_metadata"
+  collection_text: "image_text"
+  database_name: "LABIQ_DB"
+

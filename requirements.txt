@@ -4,6 +4,7 @@ numpy
 
 # tools
 pathlib
+dotenv
 
 # text extraction
 pytesseract 
@@ -11,3 +12,7 @@ opencv-python
 paddleocr[doc-parser]
 # I also had to do  python -m pip install paddlepaddle -f https://www.paddlepaddle.org.cn/whl/cpu/mkl/stable.html
 # in the terminal
+
+# database
+sqlalchemy
+pymysql
