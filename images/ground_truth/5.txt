@@ -1,0 +1,107 @@
+DRLOGY PATHOLOGY LAB
+0123456789 | 0912345678
+Accurate Caring | Instant
+drlogypathlab@drlogy.com
+105 -108, SMART VISION COMPLEX, HEALTHCARE ROAD, OPPOSITE HEALTHCARE COMPLEX. MUMBAI - 689578
+www.drlogy.com
+Yash M. Patel
+Sample Collected At:
+Age : 21 Years
+125, Shivam Bungalow, S G Road,
+Sex : Male
+Mumbal
+Reglstered on: 02:31 PM 02 Dec, 2X
+PID : 555
+Collected on: 03:11 PM 02 Dec, 2X
+Ref. By: Dr. Hiren Shah
+Reported on: 04:35 PM 02 Dec, 2X
+Complete Blood Count (CBC) with ESR
+Investigation
+Result
+Reference Value
+Unit
+Primary Sample Type :
+Blood
+HEMOGLOBIN
+Hemoglobin (Hb)
+12.5
+Low 13.0-17.0
+g/dL
+RBC COUNT
+Total RBC count
+5.2
+4.5 - 5.5
+mill/cumm
+BLOOD INDICES
+Packed Cell Volume (PCV)
+57.5
+(
+High 40 -50
+%
+Mean Corpuscular Volume (MCV)
+87.75
+83 - 101
+fL
+Cokculatad
+MCH
+27.2
+27 - 32
+pg
+Calculated
+MCHC
+32.8
+32.5 - 34.5
+g/dL
+Calculated
+RDW
+13.6
+11.6 - 14.0
+%
+WBC COUNT
+Total WBC count
+9000
+4000-11000
+cumm
+c
+DIFFERENTIAL WBC COUNT
+Neutrophils
+60
+50 - 62
+%
+Lymphocytes
+31
+20 - 40
+Eosinophils
+%
+1
+00 - 06
+Monocytes
+00 - 10
+%
+7
+%
+Basophils
+1
+00 - 02
+PLATELET COUNT
+Platelet Count
+150000
+Borderline 150000 - 410000
+cumm
+ESR
+5
+0 -15
+mm/hr
+Capillary photometry
+nstruments: Fully automated cell counter - Mindray 300
+nterpretation: Further conflrm for Anemia
+****End of Report****
+hanks for Reference
+Dr. Vimal Shah
+Dr. Payal Shah
+Medical Lab Technician
+(MD, Pathologist)
+(MD, Pathologist)
+(DMLT, BMLT)
+Generated on : 02 Dec, 202X 05:00 PM
+Page 1 of 1

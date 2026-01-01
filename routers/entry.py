@@ -36,7 +36,7 @@ async def upload_image(file: UploadFile = File(...), db: Session = Depends(get_d
         db.refresh(meta)
 
         text = ocr(file)
-        db.add(text).... just an example is this doable
+        db.add(text)
     except Exception as e:
         raise CustomException(e, sys)
 
